@@ -5,7 +5,7 @@
 
 
 Contacts:
-- Isolated Network:  Julie Lobb
+- Isolated Network:  David Wrightsman
 - Global Gig:        TBD
 
 
